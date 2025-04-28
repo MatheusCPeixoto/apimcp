@@ -1,0 +1,11 @@
+meu_projeto/
+├── app.py                  # Arquivo principal da aplicação Flask
+├── requirements.txt        # Lista de dependências do projeto
+├── config.py               # Configuração da aplicação (opcional)
+├── instance/               # Diretório para configurações locais/sensíveis (como um arquivo .env)
+├── static/                 # Arquivos estáticos (CSS, JS, imagens)
+├── templates/              # Arquivos HTML para renderização
+├── routes/                 # Rotas da aplicação (opcional, para dividir lógica)
+├── models/                 # Modelos de dados (classes SQLAlchemy ou outros)
+├── tests/                  # Testes unitários do projeto
+└── README.md               # Documentação sobre o projeto
